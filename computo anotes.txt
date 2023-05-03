@@ -1,0 +1,18 @@
+id: nombre de la carpeta unico
+action: adonde va 
+required: boleano, en cualquier imput
+value: nombre del botoncito
+<label for="email">correo:</label> 
+<input type="email" id= email required>
+placeholder: para dar ejemplo en el cuadrito
+<input type="number"> :-> solo numeros
+step: de cuanto en cuanto queremos aumentar
+<input type="range" > : para la barrita que se mueve
+div: agrupar etiquetas y no le da significado
+nav: agrupa y le da un significado, en apliaciones web 
+span: agrupa caracteres pero no les da un significado 
+<a href="hola/imagen 1.html" target="_blank"> la otra carta por que ;v no</a> _blank es para abrirlo en otra pestaña
+    <link rel="stylesheet" href="ruta de la imagen"> para poner icono en la pestaña 
+
+
+
